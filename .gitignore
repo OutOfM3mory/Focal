@@ -1,2 +1,11 @@
 build
 build/**
+
+# CMake files
+Testing
+Testing/**
+*.cmake
+CMakeCache.txt
+CMakeFiles
+Makefile
+DartConfiguration.tcl
